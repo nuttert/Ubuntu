@@ -1,10 +1,7 @@
 # Ubuntu
 
 ```
-sudo apt -y install npm &&
-sudo apt -y install python3-pip &&
-sudo apt-get -y install docker &&
-sudo apt -y install docker.io &&
+apt-get -y install sudo vim npm python3-pip docker docker.io &&
 pip3 install flask flask_cors freeport
 ```
 Новая Ubuntu на докере с красивым терминалом:
